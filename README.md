@@ -58,8 +58,15 @@ Same or related genres
 
 /MovieDB
 │-- main.cpp
-│-- Movie.h / Movie.cpp
-│-- AVLTree.h / AVLTree.cpp
-│-- HashMap.h / HashMap.cpp
-│-- Graph.h / Graph.cpp
+
+│-- LinkedList.h 
+
+│-- AVLTree.h 
+
+│-- HashMap.h 
+
+│-- Graph.h
+
+│-- Queue.h 
+
 │-- README.md
