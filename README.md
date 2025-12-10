@@ -57,6 +57,7 @@ Same or related genres
 📂 Project Structure
 
 /MovieDB
+
 │-- main.cpp
 
 │-- LinkedList.h 
