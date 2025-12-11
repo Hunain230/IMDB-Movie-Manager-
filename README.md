@@ -8,7 +8,7 @@ Advanced Search
 
 Title Search: O(log n) via AVL Tree
 
-Genre Search: O(1) average using Hash Map with separate chaining
+Genre Search: O(1) average using Hash Map with chaining (Prime).
 
 Actor Search: O(1) average with collision handling
 
